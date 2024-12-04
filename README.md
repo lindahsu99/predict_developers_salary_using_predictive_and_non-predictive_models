@@ -41,17 +41,22 @@ Data transformation:
 Ordinal encoding on Team questions, dummy encoding the skills.<br/>
 <p align = 'center'>
 <img src="images/dummy_skill.jpg" alt="Housing market " width="500"/>
-<img src="images/ordinal_work.jpg" alt="Map" width="330"/>
+<img src="images/ordinal_work.jpg" alt="Map" width="350"/>
 </p><br/>
 
 Compensation Analysis: 
 <p align="center">
   <img src="images/salary_distribution.jpg" alt="Map" width="500"/>
-  <img src="images/country_salary.jpg" alt="Map" width="480"/>
-</p>
+</p><br/>
+<p align="center">
+  <img src="images/country_salary.jpg" alt="Map" width="500"/>
+</p><br/>
+
 <p align="center">
   <img src="images/edu_level.jpg" alt="Map" width="500"/>
-<img src="images/unique_skills.jpg" alt="Housing market " width="505"/></p>
+</p><br/>
+<p align="center">
+<img src="images/unique_skills.jpg" alt="Housing market " width="500"/></p>
 <br/>
 
 Team & Personal workflow analysis: 
@@ -70,7 +75,7 @@ Checking four assumptions:
 4. Normality of residuals
 
 <p align = 'center'>
-<img src="images/assumption_check1.jpg" alt="Empathy Map" width="485"/>
+<img src="images/assumption_check1.jpg" alt="Empathy Map" width="500"/>
 <img src="images/assumption_check2.jpg" alt="Empathy Map" width="500"/></p>
 <br/>
 
